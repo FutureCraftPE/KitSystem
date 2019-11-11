@@ -1,0 +1,9 @@
+name: KitSystem
+main: Puma\KitSystem\Main
+version: 1.0
+api: 3.8.1
+author: Puma
+commands:
+ kit:
+  description: "KitSystem - /kit"
+  usage: "/kit"
